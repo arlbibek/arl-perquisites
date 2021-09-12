@@ -12,5 +12,7 @@
 
     > From now on, your computer will ask you to enter the `password`/`PIN` for any administrator action instead of just `Yes`/`No`.
 
+### Watch On [YouTube](https://youtu.be/-kcYuMzKqcY)
+
 ---
 \# That is all.
